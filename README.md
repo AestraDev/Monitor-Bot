@@ -44,8 +44,8 @@ TOKEN= Your token
 
 ## Commands
 
-*   🎵 **Basic**: `Ping`, `Help`, `Uptime`.. 
-*   🎵 **Monitor**: `Monitor`, `Stats`, `Remove`.. 
+*    **Basic**: `Ping`, `Help`, `Uptime`.. 
+*    **Monitor**: `Monitor`, `Stats`, `Remove`.. 
 
 
 **These are for now maybe added more later**

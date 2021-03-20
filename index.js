@@ -1,7 +1,5 @@
 const {Client,
-      Collection, 
-       Discord
-      } = require("discord.js");
+      Collection   } = require("discord.js");
 const client = new Client({
   disableEveryone: true
 });
